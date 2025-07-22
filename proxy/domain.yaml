@@ -1,5 +1,7 @@
 payload:
+  - 'gemini.google.com'
   - 'www.google.com'
+  - 'google.com'
   - 'www.md2card.com'
   - 'md2card.com'
   - 'md.onepis.net'
@@ -15,3 +17,6 @@ payload:
   - 'ui.nuxt.com'
   - 'github.com'
   - 'www.github.com'
+  - 'fengzg.net'
+
+
