@@ -18,5 +18,5 @@ payload:
   - 'github.com'
   - 'www.github.com'
   - 'fengzg.net'
-
-
+  - 'jsonplaceholder.typicode.com'
+  - 'typicode.com'
