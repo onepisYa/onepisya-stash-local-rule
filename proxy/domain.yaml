@@ -17,6 +17,7 @@ payload:
   - 'ui.nuxt.com'
   - 'github.com'
   - 'www.github.com'
+  - 'api.github.com'
   - 'fengzg.net'
   - 'jsonplaceholder.typicode.com'
   - 'typicode.com'
