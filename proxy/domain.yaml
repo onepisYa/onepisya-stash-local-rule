@@ -24,3 +24,8 @@ payload:
   - 'i1.api.augmentcode.com'
   - 'api.augmentcode.com'
   - 'augmentcode.com'
+  - 'claude.ai'
+  - 'console.anthropic.com'
+  - 'api.anthropic.com'
+  - 'anthropic.com' 
+  - 'anthropic'
